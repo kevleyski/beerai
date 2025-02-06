@@ -1,14 +1,14 @@
-origin
-Australia
-New Zealand
-Great Britain
-Ireland
-North America
-Belgium
-Czech Republic
-France
-Germany
-Europe
-Russia
-Ukraine
-Other
+originId:ID(Origin),name :LABEL,
+1,Australia
+2,New Zealand
+3,Great Britain
+4,Ireland
+5,North America
+6,Belgium
+7,Czech Republic
+8,France
+9,Germany
+10,Europe
+11,Russia
+12,Ukraine
+13,Other

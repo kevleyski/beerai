@@ -10,8 +10,12 @@ neo4j-admin database import full --overwrite-destination --verbose \
   --nodes=Farm=farms.csv --nodes=FreightOption=freight_options.csv \
   --nodes=Maltster=maltsters.csv --nodes=MaltCoA=malt_coas.csv \
   --nodes=Origin=origins.csv \
-  --relationships=Contains=relationships.csv \
-  --relationships=ComesIn=freight_edges.csv \
-  --relationships=IsMalt=malt_edges.csv
+  --relationships=Produces=maltster_products_edges.csv \
+  --relationships=ArrivesOn=freight_edges.csv \
+  --relationships=IsMalt=malt_edges.csv \
+  --relationships=Pedigree=barley_pedigree_edges.csv \
+  --relationships=GrownAt=malt_farm_edges.csv \
+  --relationships=Origin=farm_origin_edges.csv \
+  --relationships=Origin=beer_style_origin_edges.csv
 
 neo4j start
