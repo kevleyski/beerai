@@ -1,0 +1,8 @@
+:START_ID(BeerStyle),:END_ID(Fermentable)
+1,Pale Malt
+2,Pale Malt
+2,Crystal Malt
+3,Pale Malt
+4,Pale Malt
+4,Invert Sugar
+4,Dextrose
