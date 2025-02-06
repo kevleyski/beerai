@@ -1,4 +1,4 @@
-farm,location
-Whitton Malt House,Riverina NSW AU
-Coopers Farm Supplies,Adelaide SA AU
-Agri Norco,Oaklands NSW AU
+farmId:ID(Farm),name,location
+1,Whitton Malt House,Riverina NSW AU
+2,Coopers Farm Supplies,Adelaide SA AU
+3,Agri Norco,Oaklands NSW AU

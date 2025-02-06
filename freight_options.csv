@@ -1,4 +1,4 @@
-freight,notes
-CHEP Pallets,"Blue wooden pallets from Commonwealth Handling Equipment Pool"
-Konvoy,"Stainless 50L DIN Kegs (Tracked)"
-Kegstar,"Stainless 50L DIN Kegs (Tracked)"
+freightId:ID(Freight),name,location,notes
+1,CHEP Pallets,"Blue wooden pallets from Commonwealth Handling Equipment Pool"
+2,Konvoy,"Stainless 50L DIN Kegs (Tracked)"
+3,Kegstar,"Stainless 50L DIN Kegs (Tracked)"

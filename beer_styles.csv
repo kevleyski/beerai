@@ -1,69 +1,69 @@
-style
-Altbier
-American Amber Ale
-English Barleywine
-American Barleywine
-Berliner Weisse
-Bière de Garde
-Ordinary Bitter
-Best Bitter
-Strong Bitter
-Blonde Ale
-Helles Bock/Dunkles Bock
-British Brown Ale
-American Brown Ale
-London Brown Ale (Historical)
-California Common
-Cream Ale
-Doppelbock
-German Helles Exportbier
-Munich Dunkel
-Dunkles Weissbier
-Eisbock
-Flanders Red Ale
-British Golden Ale
-Gose (Historical)
-Gueuze
-Munich Helles
-English IPA
-American IPA
-Specialty IPA
-Double IPA
-New England IPA
-Triple IPA
-Kölsch
-Lambic
-Fruit Lambic
-Helles Bock
-Dark Mild
-Festbier Märzen
-Old Ale
-Oud Bruin
-American Pale Ale
-Belgian Pale Ale
-American Lager
-International Pale Lager
-Czech Pale Lager
-Czech Premium Pale Lager
-German Pils
-Baltic Porter
-English Porter
-American Porter
-Pre-Prohibition Porter (Historical)
-Irish Red Ale
-Roggenbier (Historical)
-Saison
-Schwarzbier
-Wee Heavy
-Irish Stout
-Irish Extra Stout
-Sweet Stout
-Oatmeal Stout
-Tropical Stout
-Foreign Extra Stout
-American Stout
-Imperial Stout
-Vienna Lager
-Weissbier
-Weizenbock
-Witbier
+styleId:ID(BeerStyle),name
+1,Altbier
+2,American Amber Ale
+3,English Barleywine
+4,American Barleywine
+5,Berliner Weisse
+6,Bière de Garde
+7,Ordinary Bitter
+8,Best Bitter
+9,Strong Bitter
+10,Blonde Ale
+11,Helles Bock/Dunkles Bock
+12,British Brown Ale
+13,American Brown Ale
+14,London Brown Ale (Historical)
+15,California Common
+16,Cream Ale
+17,Doppelbock
+18,German Helles Exportbier
+19,Munich Dunkel
+20,Dunkles Weissbier
+21,Eisbock
+22,Flanders Red Ale
+23,British Golden Ale
+24,Gose (Historical)
+25,Gueuze
+26,Munich Helles
+27,English IPA
+28,American IPA
+29,Specialty IPA
+30,Double IPA
+31,New England IPA
+32,Triple IPA
+33,Kölsch
+34,Lambic
+35,Fruit Lambic
+36,Helles Bock
+37,Dark Mild
+38,Festbier Märzen
+39,Old Ale
+40,Oud Bruin
+41,American Pale Ale
+42,Belgian Pale Ale
+43,American Lager
+44,International Pale Lager
+45,Czech Pale Lager
+46,Czech Premium Pale Lager
+47,German Pils
+48,Baltic Porter
+49,English Porter
+50,American Porter
+51,Pre-Prohibition Porter (Historical)
+52,Irish Red Ale
+53,Roggenbier (Historical)
+54,Saison
+55,Schwarzbier
+56,Wee Heavy
+57,Irish Stout
+58,Irish Extra Stout
+59,Sweet Stout
+60,Oatmeal Stout
+61,Tropical Stout
+62,Foreign Extra Stout
+63,American Stout
+64,Imperial Stout
+65,Vienna Lager
+66,Weissbier
+67,Weizenbock
+68,Witbier

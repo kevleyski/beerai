@@ -1,19 +1,19 @@
-product,moisture_low,moisture_high,extract_fine_dry_min,extract_fine_dry_max,extract_coarse_dry_min,extract_coarse_dry_max,sacharification_time_mins,odour,colour_ebc,total_nitrogen_kjeldahl,soluble_nitrogen_kjeldahl,kolbach_idx_min,kolbach_idx_max,ph_min,ph_max,diastaic_power,fan_min,fan_max,friability_min,friability_max,glassy_corns_min,glassy_corns_max,pug_min,pug_max,total_protein_drybasis,aal_congress_min,aal_congress_max,homogeneity,screenings_gt25,screenings_lt22,foriegn_seeds_weeds,viscosity_congress,wort_beta_glucan_congress,dms_precursor,notes
-Voyager AMBER,3,5,80.4,80.4,80.4,80.4,10,,25.3807107,1.35,1.65,35,41,5.7,6,21,120,175,85,97,0.1,2,0.33,5,0,78,84,95,98,0.1,1.5,1.7,200,5,"Our amber malt has an upfront yet pleasant, strong biscuit, burnt toast and subtle coffee
+maleSpecId:ID(MaltSpecification),name,moisture_low,moisture_high,extract_fine_dry_min,extract_fine_dry_max,extract_coarse_dry_min,extract_coarse_dry_max,sacharification_time_mins,odour,colour_ebc,total_nitrogen_kjeldahl,soluble_nitrogen_kjeldahl,kolbach_idx_min,kolbach_idx_max,ph_min,ph_max,diastaic_power,fan_min,fan_max,friability_min,friability_max,glassy_corns_min,glassy_corns_max,pug_min,pug_max,total_protein_drybasis,aal_congress_min,aal_congress_max,homogeneity,screenings_gt25,screenings_lt22,foriegn_seeds_weeds,viscosity_congress,wort_beta_glucan_congress,dms_precursor,notes
+1,Voyager AMBER,3,5,80.4,80.4,80.4,80.4,10,,25.3807107,1.35,1.65,35,41,5.7,6,21,120,175,85,97,0.1,2,0.33,5,0,78,84,95,98,0.1,1.5,1.7,200,5,"Our amber malt has an upfront yet pleasant, strong biscuit, burnt toast and subtle coffee
                 profile. Gently roasted over several hours and finished off with a good dose of steam, this intense malt
                 should be used sparingly in the full range of English ales, especially mild,bitters and porters to add a
                 classic full flavoured, well rounded, dry finish."
-Voyager ATLAS,5,5,81.78,81.78,81.78,81.78,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Our ""Atlas"" malt was designed as a lighter style continental type pale malt, suitable
+2,Voyager ATLAS,5,5,81.78,81.78,81.78,81.78,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Our ""Atlas"" malt was designed as a lighter style continental type pale malt, suitable
                 for use in specialty lagers and lighter style ales. This versatile, fully modified malt is made
                 exclusively from low protein, Latrobe variety barley, grown by Jamie Kite on his 4th generation family
                 farm ""Bugong"" Binya, in the Western Riverina of NSW. An extended, cooler germination is
                 employed to promote even modification. Slightly cooler air on temps during kilning and curing assist in
                 producing a clean, fresh subtle malt complexity without the body or colour of a traditional pale malt.
                 Featuring high extract and fermentability this malt has become quite popular amongst craft distillers."
-Voyager BISCUIT,4,5,79,79,79,79,10,,15.2284264,1.35,1.65,35,41,5.7,6,27,120,175,85,97,0.1,2,0.33,5,10.5,78,84,95,98,0.1,1.5,1.7,200,5,"We delicately roast our ale malt at very low temperatures for extended periods of time to produce
+3,Voyager BISCUIT,4,5,79,79,79,79,10,,15.2284264,1.35,1.65,35,41,5.7,6,27,120,175,85,97,0.1,2,0.33,5,10.5,78,84,95,98,0.1,1.5,1.7,200,5,"We delicately roast our ale malt at very low temperatures for extended periods of time to produce
                 a lighter style semi sweet, golden, lightly toasted biscuit malt. Use generously in lighter style pale
                 ales, summer ales and English bitters to add depth and complexity without added cloyness."
-Voyager BLACK BARLEY MALT,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.5380711,1.35,1.65,35,41,5.7,6,50,120,175,85,97,0.1,2,0.33,5,10.1,78,84,95,98,0.1,1.5,1.7,200,5,"Also referred to as Ethiopian black barley because of its country of origin, black barley was
+4,Voyager BLACK BARLEY MALT,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.5380711,1.35,1.65,35,41,5.7,6,50,120,175,85,97,0.1,2,0.33,5,10.1,78,84,95,98,0.1,1.5,1.7,200,5,"Also referred to as Ethiopian black barley because of its country of origin, black barley was
                 once an important food source for the ancient civilizations of North Africa, the Middle East and the
                 Himalayas. A heirloom variety dating back to 4500BC, this grain has remained unchanged, farmed for
                 generations in small batches and prized for its flavour, colour and nutritional value. A similar story
@@ -22,67 +22,67 @@ Voyager BLACK BARLEY MALT,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.
                 Sinclair commercially grew the grain under licence growing several acres to service the artisan baking
                 industry. Distinctive nut and biscuit aromas into an earthy and cereal grain like flavour with a
                 slightly oily mouthfeel."
-Voyager CHIT,4,5,69.5652174,69.5652174,69.5652174,69.5652174,10,,1.0152284,1.35,1.65,35,41,5.7,6,120,120,175,85,97,0.1,2,0.33,5,11.7,78,84,95,98,0.1,1.5,1.7,200,5,
-Voyager CHOC RYE,4,5,73.9130435,73.9130435,73.9130435,73.9130435,0,,406.0913706,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"A unique dark bread, roasted nut and burnt spice profile."
-Voyager CHOC WHEAT,4,55,71,71,71,71,0,,507.6142132,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,11.7,78,84,95,98,0.1,1.5,1.7,200,5,"Intense colour with a smoother, softer roast profile."
-Voyager CHOCOLATE,3,5,75,75,75,75,0,,406.0913706,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"A delicious lighter style chocolate malt that imparts a sligh sweetness, smooth bitterness and
+5,Voyager CHIT,4,5,69.5652174,69.5652174,69.5652174,69.5652174,10,,1.0152284,1.35,1.65,35,41,5.7,6,120,120,175,85,97,0.1,2,0.33,5,11.7,78,84,95,98,0.1,1.5,1.7,200,5,
+6,Voyager CHOC RYE,4,5,73.9130435,73.9130435,73.9130435,73.9130435,0,,406.0913706,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"A unique dark bread, roasted nut and burnt spice profile."
+7,Voyager CHOC WHEAT,4,55,71,71,71,71,0,,507.6142132,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,11.7,78,84,95,98,0.1,1.5,1.7,200,5,"Intense colour with a smoother, softer roast profile."
+8,Voyager CHOCOLATE,3,5,75,75,75,75,0,,406.0913706,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"A delicious lighter style chocolate malt that imparts a sligh sweetness, smooth bitterness and
                 classic cocoa, latte, iced coffee, caramel and burnt toast characteristics."
-Voyager COMPASS PALE,5,5,82.78,82.78,82.78,82.78,10,,2.7918782,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Our pale malt is made from the new Compass variety barley. Grown by Doug and Scott McDonald on
+9,Voyager COMPASS PALE,5,5,82.78,82.78,82.78,82.78,10,,2.7918782,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Our pale malt is made from the new Compass variety barley. Grown by Doug and Scott McDonald on
                 their family farm alongside the Mirrool Creek south or Barellan, New South Wales. Compass is a high
                 yielding variety with superior grain plumpness and head retention. Our Compass Pale malt offers high
                 extract and good fermentability. A low and slow kilning schedule helps to keep color formation low,
                 whilst still providing a bright, fresh clean malt character, suitable as a base in a wide range of ales."
-Voyager DEXTER,5,5,72,72,72,72,10,,2.5380711,1.35,1.65,35,41,5.7,6,20,120,175,85,97,0.1,2,0.33,5,11.5,78,84,95,98,0.1,1.5,1.7,200,5,"Dexter malt is a Cara Pils/Dextrin style malt that is a popular choice for enhancing the body,
+10,Voyager DEXTER,5,5,72,72,72,72,10,,2.5380711,1.35,1.65,35,41,5.7,6,20,120,175,85,97,0.1,2,0.33,5,11.5,78,84,95,98,0.1,1.5,1.7,200,5,"Dexter malt is a Cara Pils/Dextrin style malt that is a popular choice for enhancing the body,
                 head/foam retention, and mouthfeel of beer. Produced in the traditional European caramel pilsner
                 process, by steeping, part germinating and then drying high-quality, low-protein barley in the kiln.
                 Dexter malt is particularly effective at increasing the foam stability of beer, making it a great choice
                 for styles that require a persistent head, such as Pilsners, Lagers, and Belgian ales. It also adds a
                 smooth, full-bodied mouthfeel to beer, enhancing its overall drinkability."
-Voyager HERITAGE RYE,4.4,5,83.78,83.78,83.78,83.78,10,,3.0456853,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A mix of wild and early commerical Ryecorn varieties our Heritage
+11,Voyager HERITAGE RYE,4.4,5,83.78,83.78,83.78,83.78,10,,3.0456853,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A mix of wild and early commerical Ryecorn varieties our Heritage
                 Ryecorn was rescued from a neighbouring farm. This grain was given a bit of love and attention to obtain
                 some viable seed and the crop fared particularly well in its resurrection on our farm, providing small
                 quantities to malt with, and fresh seed for future plantings. A darker, smaller seed than modern
                 conventional Rye, our Heritage Cereal Ryecorn grown exclusively on our farm features an earthy, fresh
                 rye bread aroma, toasty/biscuit like sweetness and a classic dry, spicy finish."
-Voyager MALTED CORN,4.9,5,73.9130435,73.9130435,73.9130435,73.9130435,0,,2.0304569,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,0,78,84,95,98,0.1,1.5,1.7,200,5,"Malted from yellow Dent Corn grown locally on the fertile soils of the Murrumbidgee Irrigation
+12,Voyager MALTED CORN,4.9,5,73.9130435,73.9130435,73.9130435,73.9130435,0,,2.0304569,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,0,78,84,95,98,0.1,1.5,1.7,200,5,"Malted from yellow Dent Corn grown locally on the fertile soils of the Murrumbidgee Irrigation
                 Area our Malted Corn undergoes a long germination and high extended curing to produce a rich, intense
                 flavour profile. Our malted corn benefits from being milled extremely fine before being added to the
                 mash. Our Malted corn provides a much fuller, rounded and intense sweet corn flavour than raw corn. It
                 can be added directly to the mash without requiring pre boiling or step mashing.
                 An intense corn flavour/aroma. This malted Corn does not require gelatinization and lightens body,
                 color, and flavor in all recipes. Extract will improve with higher final mash temps of 75-80C."
-Voyager MALTED OATS Mitika,4,5,58.6956522,58.6956522,58.6956522,58.6956522,0,,3.0456853,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"VISUAL: Bright light straw color.
+13,Voyager MALTED OATS Mitika,4,5,58.6956522,58.6956522,58.6956522,58.6956522,0,,3.0456853,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"VISUAL: Bright light straw color.
                 AROMA: Oatmeal, cereal, porridge,
                 TASTE: Silght sourness and grainy sweetness.
                 MOUTHFEEL: Medium body, a little dryness, not cloying, creamy and smooth."
-Voyager MOUNTAIN ASH SMOKE MALT,5,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"An intense bacon, eucalyptus, lemon-citrus smoke profile"
-Voyager MUNICH,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,8.6294416,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Increased temperatures and humidity throughout kilning provide the distinctive rich toffee,
+14,Voyager MOUNTAIN ASH SMOKE MALT,5,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"An intense bacon, eucalyptus, lemon-citrus smoke profile"
+15,Voyager MUNICH,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,8.6294416,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Increased temperatures and humidity throughout kilning provide the distinctive rich toffee,
                 raisin, nutty and biscuit characteristics typical of this style. Our Munich is a sweet, intense, aroma
                 rich malt perfect for brewing classic malt driven German lagers and adding depth and complexity to ales."
-Voyager ORGANIC CHIT,4,4,69.5652174,69.5652174,69.5652174,69.5652174,10,,1.0152284,1.35,1.65,35,41,5.7,6,120,120,175,85,97,0.1,2,0.33,5,11.7,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
+16,Voyager ORGANIC CHIT,4,4,69.5652174,69.5652174,69.5652174,69.5652174,10,,1.0152284,1.35,1.65,35,41,5.7,6,120,120,175,85,97,0.1,2,0.33,5,11.7,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally."
-Voyager ORGANIC MUNICH Schooner,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,8.6294416,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
+17,Voyager ORGANIC MUNICH Schooner,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,8.6294416,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally. Increased temperatures and humidity throughout kilning provide the
                 distinctive rich toffee, raisin, nutty and biscuit characteristics typical of this style. Our Munich is
                 a sweet, intense, aroma rich malt perfect for brewing classic malt driven German lagers and adding depth
                 and complexity to ales."
-Voyager ORGANIC PILSNER,5,5,81.78,81.78,81.78,81.78,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,9,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
+18,Voyager ORGANIC PILSNER,5,5,81.78,81.78,81.78,81.78,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,9,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally. This pilsner is low protein and slightly undermodified, great for head
                 retention and mouthfeel."
-Voyager ORGANIC RED WHEAT,5,5,84.29,84.29,84.29,84.29,10,,2.5380711,1.35,1.65,35,41,5.7,6,64,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic red soft wheat, grown exclusively by Chris and Sam Greenwood on their
+19,Voyager ORGANIC RED WHEAT,5,5,84.29,84.29,84.29,84.29,10,,2.5380711,1.35,1.65,35,41,5.7,6,64,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic red soft wheat, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally."
-Voyager ORGANIC SCHOONER PALE,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,9,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic heritage schooner barley, grown exclusively by Chris and Sam Greenwood on their
+20,Voyager ORGANIC SCHOONER PALE,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,9,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic heritage schooner barley, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally."
-Voyager ORGANIC VELORIA,4.4,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,3.5532995,1.35,1.65,35,41,5.7,6,58,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic heritage schooner barley, grown exclusively by Chris and Sam Greenwood on their
+21,Voyager ORGANIC VELORIA,4.4,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,3.5532995,1.35,1.65,35,41,5.7,6,58,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic heritage schooner barley, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally. .Veloria has characteristics more aligned to older English varieties.
                 Golden coloured, superb head retention and a clean yet rich toasted honey like sweetness assisted by the
                 lower attenuation of the Schooner variety make this malt well suited to may craft beer styles."
-Voyager ORGANIC VIENNA,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,6.0913706,1.35,1.65,35,41,5.7,6,39,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
+22,Voyager ORGANIC VIENNA,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,6.0913706,1.35,1.65,35,41,5.7,6,39,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Certified Organic New world barley, grown exclusively by Chris and Sam Greenwood on their
                 regenerative farm in Coleambally. High final cure temperatures during kilning provides a deeper malt
                 aroma and flavour than our common base malts. A traditional ""high-kilned"" malt, our Vienna
                 features a bright rich orange/ golden hue and subtle toast/biscuit characteristics making it an
                 extremely versatile base malt."
-Voyager PURPLE BARLEY MALT,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.5380711,1.35,1.65,35,41,5.7,6,54,120,175,85,97,0.1,2,0.33,5,11,78,84,95,98,0.1,1.5,1.7,200,5,"Originating from Tibet where this variety has been grown commercially here for the last 3000
+23,Voyager PURPLE BARLEY MALT,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2.5380711,1.35,1.65,35,41,5.7,6,54,120,175,85,97,0.1,2,0.33,5,11,78,84,95,98,0.1,1.5,1.7,200,5,"Originating from Tibet where this variety has been grown commercially here for the last 3000
                 years. Interestingly enough, seed for this strain was obtained from Victoria-Australia in the early 1900""s
                 and brought to the United States where it was tucked away in a seed vault. Luckily its reputation
                 spurred a revival in interest for this heirloom grain, prized for its rich, distinctive flavours and
@@ -91,21 +91,21 @@ Voyager PURPLE BARLEY MALT,5,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,2
                 suppliers, allowing us to accelerate commercialisation of this rare variety. A distinctive almond like
                 nut character with earthy and slight herbal notes that round out to a sweet bread like flavour similar
                 to a lighter style wheat malt."
-Voyager RED GUM SMOKE MALT,5,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A heavy, meaty, campfire smoke profile."
-Voyager REGEN PALE MALT,5,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"New world barley, regeneratively grown and certified sustainable."
-Voyager ROAST BARLEY,3.5,5,72,72,72,72,10,,609.1370558,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"Made by intensely roasting raw unmalted schooner barley, our roast barley malt adds the classic
+24,Voyager RED GUM SMOKE MALT,5,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A heavy, meaty, campfire smoke profile."
+25,Voyager REGEN PALE MALT,5,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,2.0304569,1.35,1.65,35,41,5.7,6,76,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"New world barley, regeneratively grown and certified sustainable."
+26,Voyager ROAST BARLEY,3.5,5,72,72,72,72,10,,609.1370558,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"Made by intensely roasting raw unmalted schooner barley, our roast barley malt adds the classic
                 dry, bitter and strong coffee characteristics to traditional stouts and porters."
-Voyager ROASTED TIBETAN PURPLE MALT,4,5,71.7391304,71.7391304,71.7391304,71.7391304,10,,558.3756345,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"A hulless variety of barley, It delivers a subtle, smooth no bitter taste, with hints of
+27,Voyager ROASTED TIBETAN PURPLE MALT,4,5,71.7391304,71.7391304,71.7391304,71.7391304,10,,558.3756345,1.35,1.65,35,41,5.7,6,0,120,175,85,97,0.1,2,0.33,5,10,78,84,95,98,0.1,1.5,1.7,200,5,"A hulless variety of barley, It delivers a subtle, smooth no bitter taste, with hints of
                 aniseed."
-Voyager SCHOONER PALE,4.4,5,82.6086957,82.6086957,82.6086957,82.6086957,10,,2.5380711,1.35,1.65,35,41,5.7,6,61,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A true craft beer pale malt. A unique aroma and flavour profile that has been best described
+28,Voyager SCHOONER PALE,4.4,5,82.6086957,82.6086957,82.6086957,82.6086957,10,,2.5380711,1.35,1.65,35,41,5.7,6,61,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A true craft beer pale malt. A unique aroma and flavour profile that has been best described
                 as ""freshly cut hay, honey, and biscuits."" This malt has enough character to stand up by
                 itself in any style pale ale, even IPA""s."
-Voyager SM40,4.4,5,79.3478261,79.3478261,79.3478261,79.3478261,10,,20.3045685,1.35,1.65,35,41,5.7,6,26,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A dark munich style malt designed as a single malt for dark amber beers, or lighter session style
+29,Voyager SM40,4.4,5,79.3478261,79.3478261,79.3478261,79.3478261,10,,20.3045685,1.35,1.65,35,41,5.7,6,26,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A dark munich style malt designed as a single malt for dark amber beers, or lighter session style
                 red ales.
                 VISUAL: Bright brown color with no particulates.
                 AROMA: Toast, bread crust, and then some pretzel and brown sugar.
                 TASTE: No bitterness, gently sweet, and no sourness."
-Voyager TRITICALE,4.4,5,83.78,83.78,83.78,83.78,10,,3.0456853,1.35,1.65,35,41,5.7,6,45,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A hybrid of wheat (Triticum) and Rye (Secale), Triticale was first developed by
+30,Voyager TRITICALE,4.4,5,83.78,83.78,83.78,83.78,10,,3.0456853,1.35,1.65,35,41,5.7,6,45,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"A hybrid of wheat (Triticum) and Rye (Secale), Triticale was first developed by
                 Plant Breeders in Europe in the 1800's.
                 Triticale combines the yield potential and grain quality of wheat with the disease and environmental
                 tolerance (including soil conditions) of rye.
@@ -115,7 +115,7 @@ Voyager TRITICALE,4.4,5,83.78,83.78,83.78,83.78,10,,3.0456853,1.35,1.65,35,41,5.
                 AROMA: Grainy aromas,slight honey, and breakfast cereal.
                 TASTE: Slightly sour/tart, moderately sweet, with no bitterness.
                 MOUTHFEEL: Medium body, a little cloying, and leaving a light coating."
-Voyager UNDERMODIFED PILS,5,5,80.12,80.12,80.12,80.12,10,,1.2690355,1.35,1.65,35,41,5.7,6,79,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Delight in the rich history of brewing with our Traditional Under-Modified Pilsner Malt, a
+31,Voyager UNDERMODIFED PILS,5,5,80.12,80.12,80.12,80.12,10,,1.2690355,1.35,1.65,35,41,5.7,6,79,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Delight in the rich history of brewing with our Traditional Under-Modified Pilsner Malt, a
                 product that harks back to the golden era of brewing excellence, proudly holding the legacy of
                 generations of maltsters who mastered the art of producing exceptional malt for the perfect Pilsner.
                 Crafted with precision and care, this malt exemplifies the cherished traditions of generations past,
@@ -128,26 +128,26 @@ Voyager UNDERMODIFED PILS,5,5,80.12,80.12,80.12,80.12,10,,1.2690355,1.35,1.65,35
                 Complex yet delicate flavor profile. This malt delivers a light, honey-like sweetness that blends
                 seamlessly with subtle biscuity undertones, culminating in a crisp and clean finish that is the hallmark
                 of a true Pilsner."
-Voyager VAMPIRE RYE,4.4,5,83.78,83.78,83.78,83.78,10,,3.5532995,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,9.7,78,84,95,98,0.1,1.5,1.7,200,5,"Made exclusively from forage variety 'Vampire' rye this malted rye has a softer, more
+32,Voyager VAMPIRE RYE,4.4,5,83.78,83.78,83.78,83.78,10,,3.5532995,1.35,1.65,35,41,5.7,6,44,120,175,85,97,0.1,2,0.33,5,9.7,78,84,95,98,0.1,1.5,1.7,200,5,"Made exclusively from forage variety 'Vampire' rye this malted rye has a softer, more
                 rounded rye spice character than the more commonly grown Australian rye varieites. This is partly due to
                 larger size grain, which is more common to european rye. Expect a harmonious symphony of flavors, where
                 the typical denser rye bread character helps to showcase the notes of cloves, pepper, and a hint of
                 nuttiness."
-Voyager VELORIA,4.4,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,4.0609137,1.35,1.65,35,41,5.7,6,58,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"This was the malt that started it all. Our Veloria malt was designed to be the ultimate single
+33,Voyager VELORIA,4.4,5,80.4347826,80.4347826,80.4347826,80.4347826,10,,4.0609137,1.35,1.65,35,41,5.7,6,58,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"This was the malt that started it all. Our Veloria malt was designed to be the ultimate single
                 malt for summer pale ales and immediately gained recognition in the craft brewing community for its
                 unique characteristics. Using the now very rare Schooner variety grown right here on our farm, Veloria
                 has characteristics more aligned to older English varieties. Golden coloured, superb head retention and
                 a clean yet rich toasted honey like sweetness assisted by the lower attenuation of the Schooner variety
                 make this malt well suited to may craft beer styles."
-Voyager VIENNA,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,6.0913706,1.35,1.65,35,41,5.7,6,39,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"High final cure temperatures during kilning provides a deeper malt aroma and flavour than our
+34,Voyager VIENNA,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,6.0913706,1.35,1.65,35,41,5.7,6,39,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"High final cure temperatures during kilning provides a deeper malt aroma and flavour than our
                 common base malts. A traditional ""high-kilned"" malt, our Vienna features a bright rich
                 orange/ golden hue and subtle toast/biscuit characteristics making it an extremely versatile base malt."
-Voyager VOODOO,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,35.5329949,1.35,1.65,35,41,5.7,6,26,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Voodoo is a rich intense malt, created by increased temperature and moisture recirculation in the
+35,Voyager VOODOO,4.4,5,78.2608696,78.2608696,78.2608696,78.2608696,10,,35.5329949,1.35,1.65,35,41,5.7,6,26,120,175,85,97,0.1,2,0.33,5,10.4,78,84,95,98,0.1,1.5,1.7,200,5,"Voodoo is a rich intense malt, created by increased temperature and moisture recirculation in the
                 early stages of kilning to promote melanoidin precursor formation. An extended curing process in the
                 kiln helps to intensify this dark, sweet, aromatic malt. An extremely versatile malt Voodoo is best
                 described as a perfect blend of Amber, Munich and Med Crystal, and can be used to add body, colour,
                 aroma and flavour to all beer styles."
-Voyager WINTER WHEAT,5,5,84.29,84.29,84.29,84.29,10,,2.5380711,1.35,1.65,35,41,5.7,6,64,120,175,85,97,0.1,2,0.33,5,11,78,84,95,98,0.1,1.5,1.7,200,5,"Made exclusively from the traditionally smaller kernal ""Janz"" hard red winter wheat
+36,Voyager WINTER WHEAT,5,5,84.29,84.29,84.29,84.29,10,,2.5380711,1.35,1.65,35,41,5.7,6,64,120,175,85,97,0.1,2,0.33,5,11,78,84,95,98,0.1,1.5,1.7,200,5,"Made exclusively from the traditionally smaller kernal ""Janz"" hard red winter wheat
                 sourced from 4th generation cereal grain grower Ken Whytcross on his property ""Wongabeena"".
                 Higher protein levels in this wheat ensure great head and foam retention. Our wheat malt features a
                 typical sweet, bready, nutty and slight biscuit flavor profile that will add depth, body and complexity
