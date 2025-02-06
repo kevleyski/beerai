@@ -1,4 +1,5 @@
 :START_ID(BarleyVariety),:END_ID(BarleyVariety)
-5,1
-5,3
-5,4
+5Maximus,1Fathom
+5Maximus,3LaTrobe
+5Maximus,4Sparticus
+4Sparticus,3LaTrobe

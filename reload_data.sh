@@ -4,7 +4,7 @@ echo "This is about to whack all your data in 3secs..."
 sleep 3
 
 neo4j stop
-neo4j-admin database import full --overwrite-destination --verbose \
+neo4j-admin database import full --overwrite-destination --id-type=string --verbose \
   --multiline-fields=true --nodes=BeerStyle=beer_styles.csv \
   --nodes=BarleyVariety=barley_varieties.csv --nodes=MaltSpecification=malt_specifications.csv \
   --nodes=Farm=farms.csv --nodes=FreightOption=freight_options.csv \

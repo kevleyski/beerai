@@ -1,6 +1,6 @@
-barleyId:ID(BarleyVariety),name :LABEL,lab,notes
-1,Fathom,,""
-2,Scope,,""
-3,LaTrobe,,""
-4,Sparticus,,""
-5,Maximus CL,Intergrain,"Maximus is a new malt barley variety, becoming accredited in 2021. The variety is high yeilding and quick-mid maturing with good grain qualities for malting. This variety has improved diesease resistance and excellent grain plumpness & hectolitre weight compared to other malt barley varieties on the market"
+barleyId:ID(BarleyVariety),name,lab,notes
+1Fathom,Fathom,,""
+2Scope,Scope,,""
+3LaTrobe,LaTrobe,,""
+4Sparticus,Sparticus,,""
+5Maximus,Maximus CL,Intergrain,"Maximus is a new malt barley variety, becoming accredited in 2021. The variety is high yeilding and quick-mid maturing with good grain qualities for malting. This variety has improved diesease resistance and excellent grain plumpness & hectolitre weight compared to other malt barley varieties on the market"
