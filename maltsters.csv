@@ -1,4 +1,4 @@
-malsterId:ID(Malster),name,region
+malsterId:ID(Malster),name :LABEL,region
 1,Voyager Craft Malts,Riverina NSW AU
 2,Coopers Grain,Adelaide SA AU
 3,Joe White Maltings Bortmalt Minto,East NSW AU

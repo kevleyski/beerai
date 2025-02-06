@@ -1,4 +1,4 @@
-barleyId:ID(BarleyVariety),name,lab,notes
+barleyId:ID(BarleyVariety),name :LABEL,lab,notes
 1,Fathom,,""
 2,Scope,,""
 3,LaTrobe,,""

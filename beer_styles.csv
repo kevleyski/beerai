@@ -1,4 +1,4 @@
-styleId:ID(BeerStyle),name
+styleId:ID(BeerStyle),name :LABEL
 1,Altbier
 2,American Amber Ale
 3,English Barleywine
