@@ -1,8 +1,8 @@
 malsterId:ID(Maltster),name :LABEL,region
 Voyager,Voyager Craft Malts,Riverina NSW AU
-2,Coopers Grain,Adelaide SA AU
-3,Joe White Maltings Bortmalt Minto,East NSW AU
-4,Barret Burston Malt Geelong,South VIC AU
-5,Barret Burston Malt Perth,South VIC AU
-6,Barret Burston Malt Perth,Pinkenba QLD AU
-7,Gladfield Malt,Canterbury NZ
+2Coopers,Coopers Grain,Adelaide SA AU
+3JoeWhite,Joe White Maltings Bortmalt Minto,East NSW AU
+4BarretBurston,Barret Burston Malt Geelong,South VIC AU
+5BarretBurston,Barret Burston Malt Perth,South VIC AU
+6BarretBurston,Barret Burston Malt Perth,Pinkenba QLD AU
+Gladfield,Gladfield Malt,Canterbury NZ

@@ -1,5 +1,5 @@
 farmId:ID(Farm),name :LABEL,location
-1,Whitton Malt House,Riverina NSW AU
-2,Coopers Farm Supplies,Adelaide SA AU
-3,Agri Norco,Oaklands NSW AU
-4,Canterbury Farm,Cantebury NZ
+1Whitton,Whitton Malt House,Riverina NSW AU
+2Coopers,Coopers Farm Supplies,Adelaide SA AU
+3AgriNorco,Agri Norco,Oaklands NSW AU
+4Canterbury,Canterbury Farm,Cantebury NZ
